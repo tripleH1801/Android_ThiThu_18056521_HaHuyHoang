@@ -11,7 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ThiThuTH_18056521_HaHuyHoang">
-        <activity android:name=".ListCustomer"></activity>
+        <activity android:name=".FormAdd"></activity>
+        <activity android:name=".FormEdit" />
+        <activity android:name=".ListCustomer" />
         <activity android:name=".SignIn" />
         <activity android:name=".MainActivity">
             <intent-filter>
