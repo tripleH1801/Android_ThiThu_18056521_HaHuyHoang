@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835904847244",
+    "project_id": "fir-thithuandroid",
+    "storage_bucket": "fir-thithuandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835904847244:android:96429a5e91a167a102aaa9",
+        "android_client_info": {
+          "package_name": "com.example.thithuth_18056521_hahuyhoang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835904847244-7qqdqb7g39tecp328gplu3fb62gnis9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuf1ukDgPvMMPVzJvRWu2ubodR6r4rWK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835904847244-7qqdqb7g39tecp328gplu3fb62gnis9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
