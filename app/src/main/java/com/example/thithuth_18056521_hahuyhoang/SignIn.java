@@ -37,10 +37,10 @@ public class SignIn extends AppCompatActivity {
 
         firebaseAuth = FirebaseAuth.getInstance();
 
-        if(firebaseAuth.getCurrentUser() != null){
-            startActivity(new Intent(this, ListCustomer.class));
-            return;
-        }
+//        if(firebaseAuth.getCurrentUser() != null){
+////            startActivity(new Intent(this, ListCustomer.class));
+////            return;
+//        }
 
         btnSignIn.setOnClickListener(new View.OnClickListener() {
             @Override
